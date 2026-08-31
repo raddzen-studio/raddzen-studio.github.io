@@ -1,21 +1,16 @@
 # app-ads.txt - Metal Baron / Raddzen Studio
 #
-# BU DOSYA HENUZ EKSIK. AdMob hesabi acilinca asagidaki satirdaki
-# pub-XXXXXXXXXXXXXXXX yerine KENDI yayinci kimligin yazilacak.
-#
-# Yayinci kimligini bulmak icin:
-#   AdMob > Ayarlar > Hesap bilgileri > Yayinci kimligi
-#   (pub- ile baslayan 16 haneli numara)
-#
-# Ayrica AdMob'da "Uygulamalar > (uygulaman) > app-ads.txt" bolumunden
-# dogrulamayi baslatmak gerekiyor; Google birkac gun icinde tarayip
-# "Bulundu" durumuna geciriyor.
-#
-# BU DOSYA ALAN ADININ KOKUNDE DURMALI:
+# Bu dosya ALAN ADININ KOKUNDE durmak zorunda:
 #   https://raddzen-studio.github.io/app-ads.txt
-# Alt klasorde (ornegin /site/app-ads.txt) DURURSA BULUNMAZ.
+# Alt klasorde reklam tarayicilari BULAMAZ.
 #
 # Ayni adres Play Console'daki magaza sayfasinda "Web sitesi" alanina
 # da yazilmali - tarayicilar uygulamayi o adrese baglayarak dogruluyor.
+#
+# Dogrulamayi baslatmak icin: AdMob > Uygulamalar > Metal Baron >
+# app-ads.txt. Google birkac gun icinde tarayip "Bulundu" durumuna
+# geciriyor.
+#
+# pub-8014193621866557 = AdMob yayinci kimligi (cangeren1907 hesabi).
 
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-8014193621866557, DIRECT, f08c47fec0942fa0
